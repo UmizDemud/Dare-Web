@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+
+.demut {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 12px;
+}
+.demut g {
+  transform-origin: 50% 50%;
+}
+.demut:hover g {
+  animation: rotate 10s ease-in-out 2s infinite;
+}
+@keyframes rotate {
+    0%{
+        transform: rotate(0deg) scale(1);
+    }
+    50% {
+        transform: rotate(180deg) scale(.69);
+    }
+    100%{
+        transform: rotate(360deg) scale(1);
+    }
+}
+.demut line {
+transform-origin: 50% 50%;
+}
+.demut line:nth-of-type(1) {
+    transform: rotate(30deg);
+}
+.demut line:nth-of-type(2) {
+    transform: rotate(60deg);
+}
+.demut line:nth-of-type(3) {
+    transform: rotate(90deg);
+}
+.demut line:nth-of-type(4) {
+    transform: rotate(120deg);
+}
+.demut line:nth-of-type(5) {
+    transform: rotate(150deg);
+}
+.demut line:nth-of-type(6) {
+    transform: rotate(45deg);
+}
+.demut line:nth-of-type(7) {
+    transform: rotate(75deg);
+}
+.demut line:nth-of-type(8) {
+    transform: rotate(105deg);
+}
+.demut line:nth-of-type(9) {
+    transform: rotate(135deg);
+}
+.demut line:nth-of-type(10) {
+    transform: rotate(165deg);
+}
+.demut line:nth-of-type(11) {
+    transform: rotate(15deg);
+}
