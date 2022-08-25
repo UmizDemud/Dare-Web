@@ -10,10 +10,10 @@ const Navbar = () => {
         <Logo />
       </div>
       <div className={styles.navbarLinks}>
-      <Link href="/"><a className={styles.navbarLink}>Home</a></Link><span className={styles.seperator}>|</span>
-      <Link href="/about"><a className={styles.navbarLink}>About</a></Link><span className={styles.seperator}>|</span>
-      <Link href="/processes/"><a className={styles.navbarLink}>Projects</a></Link><span className={styles.seperator}>|</span>
-      <Link href="/processes/"><a className={styles.navbarLink}>Contact</a></Link>
+      <Link href="/"><a className={styles.navbarLink}>Anasayfa</a></Link><span className={styles.seperator}>|</span>
+      <Link href="/about"><a className={styles.navbarLink}>Hakkında</a></Link><span className={styles.seperator}>|</span>
+      <Link href="/processes/"><a className={styles.navbarLink}>Projeler</a></Link><span className={styles.seperator}>|</span>
+      <Link href="/processes/"><a className={styles.navbarLink}>İletişim</a></Link>
       </div>
     </nav>
   );

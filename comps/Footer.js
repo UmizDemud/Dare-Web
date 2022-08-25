@@ -1,8 +1,10 @@
 const Footer = () => {
     return (
       <footer>
-        <span style={{'float': 'left'}}>Copyright Dare Consulting</span>
+        <span style={{'float': 'left'}}>Dare Danışmanlık© </span>
         <span style={{'float': 'right'}}>{new Date().toDateString()}</span>
+        <br style={{'height': '4px'}}/>
+        <p>Tüm hakları saklıdır.</p>
       </footer>
     );
   }
