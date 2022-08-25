@@ -1,5 +1,5 @@
 .homeContainer {
-  padding: 20px;
+  padding: 20px 60px;
   background: rgba(255,255,255,.5);
   max-width: 1280px;
   margin: 0 auto;
@@ -11,7 +11,7 @@
   text-align: center;
 }
 .text {
-  color: #555;
+  color: #333;
 }
 .btn {
   display: block;
@@ -34,6 +34,11 @@
   .homeContainer {
     max-width: 960px;
   }
+}
 
+@media screen and (max-width: 600px) {
+  .homeContainer {
+    padding: 20px;
+  }
 }
 
