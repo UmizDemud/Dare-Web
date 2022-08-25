@@ -1,0 +1,24 @@
+.navbarLink {
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.navbarLink:hover {
+    background-color: rgba(112, 135, 198, .4);
+}
+
+.navbarLink:active {
+    background-color: #4979ff;
+}
+
+.seperator {
+    margin-bottom: 2px;
+    font-size: 27px;
+    color: #ddd;
+}
+
+.navbarLinks {
+    border-radius: 5px;
+    padding: 0 10px 5px;
+    border-bottom: 1px solid #ddd;
+}
