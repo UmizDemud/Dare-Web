@@ -4,22 +4,22 @@ body {
   background: #f6f6f6;
   color: #333;
   font-family: "Nunito";
+  margin: 0;
 }
 a {
   color: #333;
   text-decoration: none;
 }
 .content {
-  max-width: 960px;
   margin: 0 auto;
 }
 nav {
-  margin: 10px auto 80px;
-  padding: 10px 0;
+  margin: 10px auto;
+  max-width: 1280px;
+  padding: 10px;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  border-bottom: 1px solid #ddd;
 }
 nav a {
   margin-left: 10px;
@@ -32,9 +32,10 @@ footer {
   display: block;
   text-align: center;
   padding: 30px 0;
-  margin-top: 60px;
+  margin: 60px auto;
   color: #777;
   border-top: 1px solid #eaeaea;
+  max-width: 1280px;
 }
 .not-found {
   text-align: center;
@@ -42,4 +43,13 @@ footer {
 .not-found a{
   color: #4979ff;
   text-decoration: underline;
+}
+
+@media screen and (max-width: 1300px) {
+  nav {
+    max-width: 960px;
+  }
+  footer {
+    max-width: 960px;
+  }
 }

@@ -1,10 +1,17 @@
+.homeContainer {
+  padding: 20px;
+  background: rgba(255,255,255,.5);
+  max-width: 1280px;
+  margin: 0 auto;
+  border-top: 1px solid #ddd;
+}
 .title {
   color: #333;
   padding-bottom: 20px;
   text-align: center;
 }
 .text {
-  color: #777;
+  color: #555;
 }
 .btn {
   display: block;
@@ -16,3 +23,17 @@
   color: white;
   text-align: center;
 }
+.background {  
+  min-width: 100vw;
+  background-size: cover;
+  background-image: url('/bridge2.png');
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 1300px) {
+  .homeContainer {
+    max-width: 960px;
+  }
+
+}
+
