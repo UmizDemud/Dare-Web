@@ -1,0 +1,13 @@
+.mapContainer {
+  width: 40%;
+  display: inline-block;
+}
+
+
+@media screen and (max-width: 600px) {
+  .mapContainer {
+    width: 100%;
+    display: block;
+  }
+
+}
