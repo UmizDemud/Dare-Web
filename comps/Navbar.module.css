@@ -18,7 +18,7 @@
     align-items: flex-end;
     border-radius: 5px;
     padding: 0 10px 5px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #bbb;
 }
 
 @media screen and (max-width: 900px) {
