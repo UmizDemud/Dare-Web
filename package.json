@@ -12,7 +12,9 @@
     "@react-google-maps/api": "^2.12.2",
     "next": "^12.2.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-country-flag": "^3.0.2",
+    "react-dom": "^18.2.0",
+    "react-world-flags": "^1.5.1"
   },
   "devDependencies": {
     "eslint": "8.22.0",

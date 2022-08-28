@@ -1,0 +1,90 @@
+{
+    "options": [
+        "English",
+        "Turkish"
+    ],
+    "content": {
+        "pageNames": {
+            "home": [
+                "Home",
+                "Anasayfa"
+            ],
+            "about": [
+                "About",
+                "Hakkında"
+            ],
+            "404": [
+                "Page Not Found",
+                "Sayfa Bulunamadı"
+            ],
+            "contact": [
+                "Contact",
+                "İletişim"
+            ],
+            "projects": [
+                "Projects",
+                "Projeler"
+            ]
+        },
+        "pages": {
+            "home": {
+                "head": {
+                    "title": [
+                        "DARE Consulting | Home",
+                        "DARE Danışmanlık | Anasayfa"
+                    ]
+                },
+                "body": {
+                    "title": [
+                        "Home",
+                        "Anasayfa"
+                    ],
+                    "p1": [
+                        "Welcome lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. ",
+                        "Welcome lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. "
+                    ],
+                    "p2": [
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.",
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit."
+                    ],
+                    "img1_alt": [
+                        "image of a plane",
+                        "bir uçağın resmi"
+                    ],
+                    "p3": [
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.",
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit."
+                    ],
+                    "p4": [
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.",
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit."
+                    ],
+                    "p5": [
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.",
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit."
+                    ],
+                    "p6": [
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.",
+                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit."
+                    ],
+                    "a1": [
+                        "List of Projects",
+                        "Projelerin Listesi"
+                    ]
+                }
+            },
+            "footer": {
+                "span1": [
+                    "DARE Consulting",
+                    "Dare Danışmanlık"
+                ],
+                "p1": [
+                    "All rights reserved. ©",
+                    "Tüm hakları saklıdır. ©"
+                ]
+            }
+        }
+    }
+
+    
+}

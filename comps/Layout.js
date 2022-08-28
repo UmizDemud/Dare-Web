@@ -1,9 +1,10 @@
 import Head from "next/head";
 import Footer from "./Footer"
 import Navbar from "./Navbar..js"
+import React, { useState } from 'react'
 
 const Layout = ({ children }) => {
-  
+  const [lang, setLang] = useState(1)
   return (
     <>
     <Head>
@@ -11,9 +12,13 @@ const Layout = ({ children }) => {
     </Head>
     
     <div className="content">
-      <Navbar />
-      { children }
-      <Footer />
+      <Navbar lang={lang} setLang={setLang} />
+      {
+          React.cloneElement(children, {
+              lang: lang
+          })
+      }
+      <Footer lang={lang}/>
     </div>
     </>
   );
