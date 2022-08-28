@@ -61,7 +61,7 @@
         }
     </style>
     </defs>
-    <circle cx="50%" cy="50%" r="49.5%" fill="none" stroke="#222">
+    <circle cx="50%" cy="50%" r="49.5%" fill="none" stroke="#000">
       <animate 
         attributeName="fill" 
         values="#450606;#660404;#450606"
@@ -69,21 +69,21 @@
     </circle>
     <g class="demut">
     <g>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
-      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="5"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
+      <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white" stroke-width="1"></line>
     </g>
     </g>
-    <circle cx="50%" cy="50%" r="33%" fill="#7087C6" stroke="white">
+    <circle cx="50%" cy="50%" r="36%" fill="#7087C6" stroke="white">
     </circle>
     
     <text fill="white" x="26%" y="53.9%"></text>

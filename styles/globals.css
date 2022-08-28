@@ -4,7 +4,7 @@ body {
   background: #ededed;
   color: #333;
   font-family: 'Open Sans', sans-serif;  
-  font-size: 13px;
+  font-size: 14px;
   margin: 0;
 }
 a {
@@ -15,21 +15,24 @@ a {
   margin: 0 auto;
 }
 nav {
-  margin: 3px auto;
-  max-width: 1024px;
-  padding: 10px;
+  height: 80px;
+  max-width: 1080px;
+  margin: 0 auto;
+  position: relative;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
 }
 nav .logo {
-  margin-right: auto;
+  position: absolute;
+  top: 5px;
+  left: 20px;
 }
 footer {
   display: block;
   text-align: center;
   padding: 30px 10px;
-  margin: 10px auto 60px;
+  margin: 5px auto 60px;
   color: #777;
   border-top: 1px solid #eaeaea;
   max-width: 1024px;
@@ -46,13 +49,4 @@ footer p {
 .not-found a{
   color: #4979ff;
   text-decoration: underline;
-}
-
-@media screen and (max-width: 1300px) {
-  nav {
-    max-width: 960px;
-  }
-  footer {
-    max-width: 960px;
-  }
 }

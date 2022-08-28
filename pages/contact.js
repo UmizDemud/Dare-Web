@@ -15,9 +15,10 @@ const Contact = () => {
           <div className={styles.contactInfo}>
             <h2 className={styles.underscore}>DARE Danışmanlık</h2> 
             <h4 className={styles.subtitle}><i>Danışmanlık Ofisi</i></h4>
-            <p>Email: uddarendeli@proton.com</p>
-            <p>Telefon: +90 554 960 5406</p>
-            <p>Adres: Aydınlar Mah., Elmadağı Cd. No:18/6, 06460 Çankaya/Ankara</p>
+            <p>Email: <span className={styles.value}>uddarendeli@proton.com</span></p>
+            <p>Telefon: <span className={styles.value}>+90 554 960 5406</span></p>
+            <p style={{marginBottom: '0'}}>Adres: <span className={styles.value}>Aydınlar Mah., Elmadağı Cd. No:18/6, 06460</span></p>
+            <p style={{marginTop: '0'}}><span className={styles.value}>Çankaya/Ankara</span></p>
             <h4 className={styles.subtitle}><i>Demut Yazılım</i></h4>
             <p><a target={'_blank'} href="https://umizdemud.github.io/">Web Sitesi</a></p>
           </div>

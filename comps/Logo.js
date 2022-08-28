@@ -35,9 +35,9 @@ const Logo = () => {
               <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white"></line>
               <line x1="50%" y1="0" x2="50%" y2="100%" stroke="white"></line>
             </g>
-            <circle cx="50%" cy="50%" r="33%" fill={defaults.innerCircleFill} stroke={defaults.innerCircleBorder}>
+            <circle cx="50%" cy="50%" r="38%" fill={defaults.innerCircleFill} stroke={defaults.innerCircleBorder}>
             </circle>
-            <text fill={defaults.textColor} x="25.3%" y="53.9%">{defaults.text}</text>
+            <text fill={defaults.textColor} x="25.3%" y="54.06%">{defaults.text}</text>
         </svg>   
      );
 }

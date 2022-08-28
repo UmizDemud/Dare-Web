@@ -30,8 +30,8 @@
             "home": {
                 "head": {
                     "title": [
-                        "DARE Consulting | Home",
-                        "DARE Danışmanlık | Anasayfa"
+                        "DARE Defence and Aerospace | Home",
+                        "DARE Savunma ve Havacılık | Anasayfa"
                     ]
                 },
                 "body": {
@@ -41,7 +41,7 @@
                     ],
                     "p1": [
                         "Welcome lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. ",
-                        "Welcome lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. "
+                        "Merhaba lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit. "
                     ],
                     "p2": [
                         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.",
@@ -75,8 +75,8 @@
             },
             "footer": {
                 "span1": [
-                    "DARE Consulting",
-                    "Dare Danışmanlık"
+                    "DARE Defence and Aerospace",
+                    "Dare Savunma ve Havacılık"
                 ],
                 "p1": [
                     "All rights reserved. ©",
