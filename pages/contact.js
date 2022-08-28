@@ -20,7 +20,7 @@ const Contact = () => {
             <p style={{marginBottom: '0'}}>Adres: <span className={styles.value}>Aydınlar Mah., Elmadağı Cd. No:18/6, 06460</span></p>
             <p style={{marginTop: '0'}}><span className={styles.value}>Çankaya/Ankara</span></p>
             <h4 className={styles.subtitle}><i>Demut Yazılım</i></h4>
-            <p><a target={'_blank'} href="https://umizdemud.github.io/">Web Sitesi</a></p>
+            <p><a rel="noreferrer"  target={'_blank'} href="https://umizdemud.github.io/">Web Sitesi</a></p>
           </div>
           <GoogleMaps />
         </div>
