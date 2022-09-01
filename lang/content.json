@@ -67,9 +67,21 @@
                         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit.",
                         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi impedit suscipit architecto, odio inventore nostrum non neque dicta. Quam magni accusantium culpa distinctio tempore iure accusamus, dolorem nobis odit."
                     ],
+                    "p7": [
+                        "Check out our previous projects displayed here.",
+                        "Daha eski projelerimize göz atın."
+                    ],
+                    "p8": [
+                        "To use our services or ask your questions, please reach out.",
+                        "Hizmetlerimizden yararlanmak veya soru sormak için bize ulaşın."
+                    ],
                     "a1": [
                         "List of Projects",
                         "Projelerin Listesi"
+                    ],
+                    "a2": [
+                        "Contact",
+                        "İletişim"
                     ]
                 }
             },
