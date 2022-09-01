@@ -1,9 +1,9 @@
 import styles from './Logo.module.css'
 
 const defaults = {
-    colorFrom: '#450606',
-    colorTo: '#660404',
-    outerCircleBorder: 'rgb(33, 33, 33)',
+    colorFrom: '#ff0606',
+    colorTo: '#ff0404',
+    outerCircleBorder: '#7087C6',
     innerCircleBorder: 'white',
     innerCircleFill: '#7087C6',
     textColor: 'white',

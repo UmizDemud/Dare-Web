@@ -1,8 +1,10 @@
+import styles from './SiteController.module.css'
+
 const SiteController = () => {
     return ( 
-        <div className={styles.container}>
+        <a href='#main' className={styles.container}>
             
-        </div>
+        </a>
      );
 }
  

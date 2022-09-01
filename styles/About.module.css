@@ -19,3 +19,22 @@
     width: 35%;
     justify-self: flex-end;
 }
+
+@media screen and (max-width: 1300px) {
+    .homeContainer {
+      max-width: 960px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+  .homeContainer {
+    padding: 20px;
+  }
+  .columnsHolder {
+    flex-direction: column;
+  }
+  .columnL, .columnS {
+    display: block;
+    width: 100%;
+  }
+}
